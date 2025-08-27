@@ -4599,7 +4599,7 @@ const Ro = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
+  initialMessages: ["Hi there! 👋", "My name is Seb. How can I assist you today?"],
   i18n: {
     en: {
       title: "Hi there! 👋",
@@ -27845,3 +27845,4 @@ function Qye(e) {
 export {
   Qye as createChat
 };
+
