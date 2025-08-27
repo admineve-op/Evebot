@@ -4599,10 +4599,10 @@ const Ro = {
   chatSessionKey: "sessionId",
   defaultLanguage: "en",
   showWelcomeScreen: !1,
-  initialMessages: ["Hi there! 👋", "My name is Seb. How can I assist you today?"],
+  initialMessages: ["Hi there! 👋", "My name is Eve Bot. How can I assist you today?"],
   i18n: {
     en: {
-      title: "Hi there! 👋",
+      title: "Eve Park Resident Support",
       subtitle: "Start a chat. We're here to help you 24/7.",
       footer: "",
       getStarted: "New Conversation",
@@ -27845,4 +27845,5 @@ function Qye(e) {
 export {
   Qye as createChat
 };
+
 
